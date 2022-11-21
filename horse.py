@@ -1,0 +1,2 @@
+a = 'macbook'
+print(a)
